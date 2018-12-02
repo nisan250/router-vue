@@ -1,29 +1,11 @@
-# router-vue
+# Router Vue - angular
 
-## Project setup
-```
-npm install
-```
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Vue Training - simple example with a router
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
+# Run This Project
+to run this project:
+click this link https://nisan250.github.io/router-vue/
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
